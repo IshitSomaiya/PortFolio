@@ -1,0 +1,9 @@
+Deployment successfully updated.
+
+Version 1 on Mar 29, 2024, 2:36 PM
+
+Deployment ID
+AKfycbwfonABacVvRg9K4nbvf-QUgvBegqEUw92SlNzEMkz7TSoWiYNW6I85E9XEcrSGSamA
+
+URL
+https://script.google.com/macros/s/AKfycbwfonABacVvRg9K4nbvf-QUgvBegqEUw92SlNzEMkz7TSoWiYNW6I85E9XEcrSGSamA/exec
